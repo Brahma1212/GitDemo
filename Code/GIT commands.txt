@@ -1,0 +1,51 @@
+Git and GIT HUB:
+
+https://degreed.com/pathway/08qdegrlpr/pathway?path=git
+
+path in GIT DEMO folder:C:\GIT Demo
+
+Git  Commands:
+git config --global user.name "Brahma"
+git config --global user.email jbreddy517@gmail.com
+
+    1  git -- version
+    2  git --version
+    3  pwd
+    4  git config --global user.name "Brahma".
+    5  git config --global user.email jbreddy517@gmail.com
+    6  git init
+    7  git status
+    8  git add .
+    9  git status
+   10  git commit -m "first commit"
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "first commit added text"
+   15  git status
+   16  git ls
+   17  ls
+   18  history
+   19  git config --edit --global
+   20  git log
+   21  ls -as ~/.ssh
+   22  cd ..
+   23  cd ..
+   24  cd ..
+   25  ls -al ~/.ssh
+   26  ssh-keygen -t rsa -b 4096 -c "Jbreddy517@gmail.com"
+   27  pwd
+   28  code .
+   29  git checkout -b testing
+   30  git status
+   31  git add .
+   32  git commit -m "added branch"
+   33  git diff master
+   34  git checkout master
+   35  git merge testing
+   36  git clone https://github.com/alkajhanwar/Git-Demo.git
+   37  history
+
+
+GITHUB URL:https://github.com/alkajhanwar/Git-Demo
+GITHUB URL:https://github.com/Brahma1212
